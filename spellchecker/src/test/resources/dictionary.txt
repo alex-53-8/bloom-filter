@@ -1,0 +1,8 @@
+assert
+home
+today
+here
+dog
+food
+snap
+laptop
